@@ -19,6 +19,7 @@
  nikola-use-pygments t
  org-export-with-toc nil
  org-export-with-section-numbers nil
+ org-html-htmlize-output-type nil
  org-startup-folded 'showeverything)
 
 ;; Load additional configuration from conf.el
